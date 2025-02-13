@@ -1,0 +1,20 @@
+.font_style{
+color:gray;
+font-family: Arial;
+}
+.button{
+cursor: pointer;
+border-radius: 15%;
+
+}
+.button:hover{
+    background-color: green;
+}
+.div_container{
+    width: 40%;
+    height: 40%;
+    background-color: rgb(57, 125, 125);
+    border: 1px dotted;
+    padding: 5px;
+    margin: 15px;
+}
